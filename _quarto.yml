@@ -8,12 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - vision.qmd
       - philosophy.qmd
+      - services.qmd
+      - assessment.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
       - icon: github
+        href: https://github.com/drwin22/quartro
+        - icon: youtube
+        href: https://youtube.com/
+      - icon: quatro
         href: https://github.com/drwin22/quartro
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
