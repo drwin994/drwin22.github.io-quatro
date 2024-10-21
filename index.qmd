@@ -1,0 +1,24 @@
+---
+title: "My Personnal Bio"
+about:
+  id: me
+  template: trestles
+  image: img/profile.png
+  image-shape: round
+  image-width: 15em
+---
+
+
+:::{#me}
+
+## Goals
+
+## Education
+
+## Experience
+
+## Philopsohy
+
+:::
+
+Thanks for checking out my web site!
